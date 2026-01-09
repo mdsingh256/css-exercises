@@ -1,13 +1,13 @@
 /* Add CSS Styling */
 /* . for class */
 .odd{
-    background-color: pink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 /* # for id */
 #second{
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -16,7 +16,7 @@
 }
 
 #fourth{
-    background-color: lightgreen;
+    background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
 }
