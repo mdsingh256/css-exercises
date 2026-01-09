@@ -1,5 +1,12 @@
 /* Add CSS Styling */
+/* . for class */
 .odd{
     background-color: pink;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* # for id */
+#second{
+    color: blue;
+    font-size: 36px;
 }
